@@ -25,12 +25,6 @@ function App() {
       <Particular />
       <Footer />
       {/* footer */}
-
-
-
-
-
-
     </div>
   );
 }
