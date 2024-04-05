@@ -70,6 +70,7 @@ export const Content = () => {
                                                 <h5 class="card-text fw-bold vazirmatn-uniquifier" style={{ fontSize: '23px' }}>
                                                     {item.title}
                                                 </h5>
+                                                
                                             </div>
                                         </a>
                                     </div>
