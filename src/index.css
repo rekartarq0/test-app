@@ -1,0 +1,53 @@
+.custom-px-12 {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+body{
+  background-color: #f7f7f8;
+}
+@font-face {
+  font-family: 'VazirMatn';
+  src: url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+  /* Add other formats if available */
+}
+.vazirmatn-uniquifier{
+  font-family: "Vazirmatn", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.vazirmatn-uniquifier-normal {
+  font-family: "Vazirmatn", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+.ArticleTitle {
+    background-image: linear-gradient(to right, #cdd2ff00, #cdd2ff23, #ffeaea);
+}
+
+.cardReport2 .imageReport2::before {
+    content: "";
+    background-image: linear-gradient(#ffffff00, #143d84);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-radius: 15px;
+}
+.card-img-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.card-img-overlay {
+    top: auto;
+}
+
+.tit h1 {
+    font-size: 40px;
+    line-height: 60px;
+    height: 175px;
+    overflow: hidden;
+}
